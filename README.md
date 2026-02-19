@@ -1,10 +1,11 @@
-# vue-csv-exporter
+<h1 align="center">Vue CSV Exporter</h1>
 
 [![npm version](https://img.shields.io/npm/v/vue-csv-exporter.svg)](https://www.npmjs.com/package/vue-csv-exporter)
-[![license](https://img.shields.io/npm/l/vue-csv-exporter.svg)](https://github.com/7Hunter7/vue-csv-exporter/blob/main/LICENSE)
-[![downloads](https://img.shields.io/npm/dm/vue-csv-exporter.svg)](https://www.npmjs.com/package/vue-csv-exporter)
-[![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
-[![vue3](https://img.shields.io/badge/vue-3.x-brightgreen.svg)](https://v3.vuejs.org/)
+[![npm downloads](https://img.shields.io/npm/dm/vue-csv-exporter.svg)](https://www.npmjs.com/package/vue-csv-exporter)
+[![license](https://img.shields.io/npm/l/vue-csv-exporter.svg)](https://github.com/7Hunter7/vue-csv-exporter/LICENSE)
+[![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://v2.vuejs.org/)
+[![vue3](https://img.shields.io/badge/vue-3.x-brightgreen.svg)](https://vuejs.org/)
+[![GitHub stars](https://img.shields.io/github/stars/7Hunter7/vue-csv-exporter?style=social)](https://github.com/7Hunter7/vue-csv-exporter)
 
 Простой и мощный экспорт данных в CSV для Vue.js приложений. 
 **Без зависимостей**, с поддержкой кириллицы и TypeScript.
